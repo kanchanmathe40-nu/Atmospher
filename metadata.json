@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Weather",
+  "description": "Real-time weather forecast and conditions powered by the open public Open-Meteo REST API with asynchronous fetching, robust error handling, and loading states.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
